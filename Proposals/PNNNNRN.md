@@ -8,11 +8,6 @@
   <tr>
     <td style="text-align:left">Author:  </td>
     <td style="text-align:right">Full Name</td>
-  </tr>
-  <tr>
-    <td style="text-align:left">Reply to:  </td>
-    <td style="text-align:right">yourname@example.com</td>
-  </tr>
 </table>
 
 ## Introduction
