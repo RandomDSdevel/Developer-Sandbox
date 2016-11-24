@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td style="text-align:left">Author:  </td>
-    <td style="text-align:right">Full Name (<a href=“mailto:person@server.domain”>person@server.domain</a>)</td>
+    <td style="text-align:right">Full Name ([person@server.domain](mailto:person@server.domain))</td>
 </table>
 
 ## Introduction
