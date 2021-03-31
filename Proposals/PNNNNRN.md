@@ -3,7 +3,7 @@
 <table style="float:left">
   <tr>
     <td style="text-align:left">Date:  </td>
-    <td style="text-align:right">Full-month-name number-of-day-of-month<sup>ordinal-indicator</sup>, year-number</td>
+    <td style="text-align:right">Day-of-week, Full-month-name number-of-day-of-month<sup>ordinal-indicator</sup>, year-number</td>
   </tr>
   <tr>
     <td style="text-align:left">Author:  </td>
