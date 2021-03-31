@@ -2,11 +2,11 @@
 
 ## About the Repository
 
-This repository is a personal one modeled on the ['Homebrew Evolution'](https://github.com/Homebrew/brew-evolution) and ['Swift Programming Language Evolution'](https://github.com/apple/swift-evolution) repositories meant to contain ideas I have for some projects I might want to pursue in the future.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This repository is a personal one modeled on the ['Homebrew Evolution'](https://github.com/Homebrew/brew-evolution) and ['Swift Programming Language Evolution'](https://github.com/apple/swift-evolution) repositories meant to contain ideas I have for some projects I might want to pursue in the future.  
 
 ## Contributing
 
-I have yet to add a set of contribution guidelines to this repository, but I will say for now that anybody is welcome to submit issues and pull requests concerning it to me or participate in discussing ones I submit myself with me.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have yet to add a set of contribution guidelines to this repository, but I will say for now that anybody is welcome to submit issues and pull requests concerning it to me or participate in discussing ones I submit myself with me.  
 
 ## Licensing Notice
 
