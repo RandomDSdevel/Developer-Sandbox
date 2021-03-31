@@ -1,10 +1,19 @@
 # PNNNNRN:  $NAME
 
-|||
-|:----------|----------:|
-|Date:  |Full-month-name number-of-day-of-month<sup>ordinal-indicator</sup>, year-number|
-|Author:  |Full Name|
-|Reply to:  |yourname@example.com|
+<table style="float:left">
+  <tr>
+    <td style="text-align:left">Date:  </td>
+    <td style="text-align:right">Full-month-name number-of-day-of-month<sup>ordinal-indicator</sup>, year-number</td>
+  </tr>
+  <tr>
+    <td style="text-align:left">Author:  </td>
+    <td style="text-align:right">Full Name</td>
+  </tr>
+  <tr>
+    <td style="text-align:left">Reply to:  </td>
+    <td style="text-align:right">yourname@example.com</td>
+  </tr>
+</table>
 
 ## Introduction
 
