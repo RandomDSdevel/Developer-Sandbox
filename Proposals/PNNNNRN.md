@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td style="text-align:left">Author:  </td>
-    <td style="text-align:right">Full Name (person@server.domain)</td>
+    <td style="text-align:right"><a href="https://github.com/RandomDSdevel/RandomDSdevel-Evolution">RandomDSdevel Evolution</a></td>
 </table>
 
 ## Introduction
