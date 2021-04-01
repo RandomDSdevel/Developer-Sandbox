@@ -1,4 +1,4 @@
-# <a href="https://github.com/RandomDSdevel/RandomDSdevel-Evolution"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">RandomDSdevel Evolution</span></a>
+# <a href="https://gitlab.com/RandomDSdevel/developer-sandbox"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Developer Sandbox</span></a>
 
 ## About This Repository
 
@@ -10,4 +10,4 @@
 
 ## Licensing Notice
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><a href="https://github.com/RandomDSdevel/RandomDSdevel-Evolution"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">RandomDSdevel Evolution</span></a> by <a rel="author" href="https://github.com/RandomDSdevel"><span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">RandomDSdevel</span></a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.  A [plain-text copy](https://github.com/RandomDSdevel/RandomDSdevel-Evolution/blob/master/LICENSE.txt) of this license is also available verbatim inside this repository as [`LICENSE.txt`](https://github.com/RandomDSdevel/RandomDSdevel-Evolution/blob/master/LICENSE.txt).  
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><a href="https://gitlab.com/RandomDSdevel/developer-sandbox"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Developer Sandbox</span></a> by <a rel="author" href="https://gitlab.com/RandomDSdevel"><span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">RandomDSdevel</span></a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.  A [plain-text copy](https://gitlab.com/RandomDSdevel/developer-sandbox/-/blob/main/LICENSE.txt) of this license is also available verbatim inside this repository as [`LICENSE.txt`](https://gitlab.com/RandomDSdevel/developer-sandbox/-/blob/main/LICENSE.txt).  
