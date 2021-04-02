@@ -6,7 +6,7 @@
 
 ## Contributing
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have yet to add a set of contribution guidelines to this repository, but I will say for now that anybody is welcome to submit issues and pull requests concerning it to me or participate in discussing ones I submit myself with me.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I've yet to add any contribution guidelines to this repository, but I'll say for now that anybody's welcome to submit and/or participate in discussing issues and pull requests.  
 
 ## Licensing Notice
 
