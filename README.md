@@ -2,7 +2,7 @@
 
 ## About This Repository
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This repository is a personal one modeled on the ['Homebrew Evolution'](https://github.com/Homebrew/brew-evolution) and ['Swift Programming Language Evolution'](https://github.com/apple/swift-evolution) repositories meant to contain ideas I have for some projects I might want to pursue in the future.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is a personal repository containing my free, libre, and open-source development projects and project ideas.  
 
 ## Contributing
 
