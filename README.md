@@ -2,7 +2,7 @@
 
 ## About This Repository
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is a personal repository containing my free, libre, and open-source development projects and project ideas.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is a personal repository containing or referencing my free, libre, and open-source development projects and project ideas.  
 
 ## Contributing
 
